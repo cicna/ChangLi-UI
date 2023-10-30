@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96">
+<path style="fill:#00ff00; stroke:none;" d="M0 0L0 32L64 32L64 0L0 0z"/>
+<path style="fill:#ff0000; stroke:none;" d="M64 0L64 64L96 64L96 0L64 0z"/>
+<path style="fill:#00ffff; stroke:none;" d="M0 32L0 96L32 96L32 32L0 32z"/>
+<path style="fill:#0000ff; stroke:none;" d="M32 32L32 64L64 64L64 32L32 32z"/>
+<path style="fill:#ffff00; stroke:none;" d="M32 64L32 96L96 96L96 64L32 64z"/>
+</svg>
