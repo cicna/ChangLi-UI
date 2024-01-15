@@ -1,16 +1,16 @@
 # ChangLi:基于 ASP\.NET Core+Vue 的 ERP 系统
 
-### 介绍
+## 系统介绍
 
 使用 ASP\.NET Core + Vue 框架来实现一个功能齐全的 ERP 系统，旨在为企业提供一个全面集成的解决方案，以优化资源、流程和信息的管理。
 
 ![](https://raw.githubusercontent.com/zcqiand/nanrong/gh-pages/assets/img/202401/QQ20240115220720.png)
 
-### 更新日志
+## 更新日志
 
 - [更新日志](./CHANGELOG.md)
 
-### 功能清单
+## 功能清单
 
 1. **采购管理**，在该模块中，需要实现以下功能：
    - 供应商管理：实现有效地管理供应商信息。了解供应商的基本信息、联系方式以及历史交易记录将有助于建立稳固的合作关系。
