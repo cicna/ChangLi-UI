@@ -3,8 +3,8 @@
 	<el-container class="layout">
 		<el-header>
 			<div class="logo flx-center">
-				<img src="@/assets/images/logo.svg" alt="logo" />
-				<span>纽客ERP</span>
+				<img src="@/assets/images/logo.png" alt="logo" />
+				<span>ChangLi</span>
 			</div>
 			<el-menu
 				mode="horizontal"

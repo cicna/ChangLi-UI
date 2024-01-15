@@ -1,8 +1,8 @@
 {
-	"name": "ERP",
+	"name": "ChangLi",
 	"private": true,
 	"version": "1.0.0",
-	"description": "纽客ERP后台管理系统",
+	"description": "ChangLi:基于ASP.NET Core+Vue的ERP系统",
 	"author": "zcqiand <zcqiand@163.com>",
 	"license": "MIT",
 	"scripts": {

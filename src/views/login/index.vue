@@ -7,8 +7,8 @@
 			</div>
 			<div class="login-form">
 				<div class="login-logo">
-					<img class="login-icon" src="@/assets/images/logo.svg" alt="" />
-					<h2 class="logo-text">纽客ERP</h2>
+					<img class="login-icon" src="@/assets/images/logo.png" alt="" />
+					<h2 class="logo-text">ChangLi</h2>
 				</div>
 				<LoginForm />
 			</div>
